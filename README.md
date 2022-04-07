@@ -1,2 +1,2 @@
 # ScoutingApp
-# Still working on it
+### Install Pip, then FastAPI, then Uvicorn and you can use the code.
